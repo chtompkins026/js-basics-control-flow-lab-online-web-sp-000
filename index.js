@@ -23,4 +23,5 @@ function switchOnCharmFromTip(tip) {
    case ('generous'):
      msg = "Thank you so much."; 
      break; 
+    case
 }
