@@ -18,6 +18,7 @@ function ternaryCheckCity(city) {
 }
 
 function switchOnCharmFromTip(tip) {
+  let msg; 
  switch(tip) { 
    case ' '
 }
